@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+h1 {
+    color: rgb(8, 2, 119);
+    font-style: oblique;
+    margin-left: 15cm;
+  }
+  img {
+    width: 230px;
+    height: 300px;
+    margin-left: 15.5cm;
+  }
+  p {
+    color: aliceblue;
+    font-size: 0.6cm;
+    margin-left: 14.5cm;
+  }
+ 

@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+    p {
+    color: aliceblue;
+      font-size: larger;
+    }
+    h1{
+        color: aliceblue;
+    }
+    h2{
+        color: aliceblue;
+    }
+
+    img {
+      width: 200px;
+      height: 150px;
+    }
+    .img1{
+        width: auto;
+    }
